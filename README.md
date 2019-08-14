@@ -1,4 +1,4 @@
 # Complex-Numbers
-Libreria de numeros complejos clase de CNYT
+Libreria de numeros complejos clase CNYT
 
 ## Autor: Davor Cortés
