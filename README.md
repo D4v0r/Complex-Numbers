@@ -4,11 +4,11 @@
 
 
 
-Libreria de numeros complejos para computación cuántica 
+Libreria de numeros complejos para computación cuántica                                                                          
 
-Universidad: Escuela Colombiana de Ingenieria Julio Garavito.
-Curso: CNYT(Ciencias Naturales y Tecnología)
-Grupo: 3
+- Universidad: Escuela Colombiana de Ingenieria Julio Garavito.
+- Curso: CNYT(Ciencias Naturales y Tecnología)
+- Grupo: 3
 
 
 
