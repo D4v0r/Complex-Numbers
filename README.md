@@ -28,7 +28,7 @@ Este proyecto es realizado con el fin de estudiar el campo de la computación cu
 para ello se implementará una libreria de numeros complejos.
 
 ### Listado de funciones disponibles
-    1. Operaciones Básicas
+    /1. Operaciones Básicas
       - Suma de complejos
       - Producto de complejos
       - Resta de complejos
