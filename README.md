@@ -28,7 +28,7 @@ Este proyecto es realizado con el fin de estudiar el campo de la computación cu
 para ello se implementará una libreria de numeros complejos.
 
 ### Listado de funciones disponibles
-    /1. Operaciones Básicas
+  1. Operaciones Básicas
       - Suma de complejos
       - Producto de complejos
       - Resta de complejos
@@ -40,7 +40,7 @@ para ello se implementará una libreria de numeros complejos.
       - Conversion de notacion polar a cartesiana
       - Fase
       
-    2. Operaciones con vectores y matrices complejos
+  2. Operaciones con vectores y matrices complejos
       - Suma de vectores
       - Inverso aditivo de un vector complejo
       - Multiplicacion escalar de un vector complejo
