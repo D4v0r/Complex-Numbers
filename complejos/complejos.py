@@ -10,7 +10,7 @@ def suma(c1, c2):
     
     a, b = c1
     c, d = c2
-    return (round(float(a + c), 2), round(float(b + d), 2))
+    return (float(a + c), float(b + d))
 
 def producto(c1, c2):
     '''Esta función realiza el producto de dos números complejos c1 y c2 en notación rectangular.
@@ -20,7 +20,7 @@ def producto(c1, c2):
     
     a, b = c1
     c, d = c2
-    return (round(float(a * c - b * d), 2), round(float(a * d + b * c), 2))
+    return (float(a * c - b * d), float(a * d + b * c))
 
 def resta(c1, c2):
     '''Esta función realiza la resta de dos números complejos c1 y c2 en notación rectangular.
